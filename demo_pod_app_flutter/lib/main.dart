@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
           onPrimary: Colors.lightBlueAccent,
           secondary: Colors.white,
           onSecondary: Colors.grey,
-          error: Colors.red,
+          error: Colors.redAccent,
           onError: Colors.redAccent,
           background: Colors.black,
           onBackground: Colors.black54,
